@@ -1,7 +1,8 @@
 
 def using_for
-	checklist = 1..10
-	#your code here
+  (0..10).times do
+    puts ""
+  end
 end
 
 
