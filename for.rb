@@ -1,7 +1,7 @@
 
 def using_for
   (0..10).times do
-    puts ""
+    puts "Wingardium Leviosa"
   end
 end
 
